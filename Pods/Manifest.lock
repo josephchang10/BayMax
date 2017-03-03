@@ -1,0 +1,15 @@
+PODS:
+  - LTMorphingLabel (0.4.0)
+  - UICircularProgressRing (1.2.2)
+
+DEPENDENCIES:
+  - LTMorphingLabel
+  - UICircularProgressRing
+
+SPEC CHECKSUMS:
+  LTMorphingLabel: d9a85f16ac306f0e07321d6819964deb2dc69638
+  UICircularProgressRing: a03a65ab11512ddbffccd2ae13800aa53f6f6b02
+
+PODFILE CHECKSUM: 751bfc925fe2cef4498ca3c47276dfe64d6cf95b
+
+COCOAPODS: 1.2.0

@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  Health
+
+  Created by 张嘉夫 on 2017/3/3.
+  Copyright © 2017年 张嘉夫. All rights reserved.
+*/
+"HealthKit is not available in this Device"="当前设备没有健康数据";
